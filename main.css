@@ -1,0 +1,47 @@
+/*general format: 
+selector{
+    property: value;
+}
+SELECTORS
+1. Element (e.g. h1, td)
+2. Class
+3. ID
+*/
+*{
+    font-family: Georgia, serif;
+}
+body {
+    background-color: mintcream;
+}
+h3 {
+    color: blue;
+}
+
+.header1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: grey;
+}
+
+.btn{
+    Padding: 10px;
+    Color: white;
+    border-color: black;
+
+}
+
+.btn-1{
+    background-color: green;
+}
+
+.btn-2{
+    background-color: pink;
+}
+
+.btn-3{
+    background-color: purple;
+}
+
+#big-blue.large.blue{
+    color:red;
+    font-size:200%;
+}
